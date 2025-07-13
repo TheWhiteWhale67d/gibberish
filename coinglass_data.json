@@ -775,6 +775,200 @@
           }
         }
       }
+    },
+    {
+      "timestamp": 1752416838,
+      "readable_time": "2025-07-13 14:27:18",
+      "assets": {
+        "BTC": {
+          "liquidation_map": {
+            "error": 404
+          },
+          "open_interest": {
+            "error": 404
+          },
+          "funding_oi_weighted": {
+            "error": 404
+          },
+          "top_trader_ratio": {
+            "error": 404
+          },
+          "whale_alerts": {
+            "error": 404
+          },
+          "taker_buy_sell_volume": {
+            "error": 404
+          },
+          "global_long_short_ratio": {
+            "error": 404
+          },
+          "pairs_markets": {
+            "error": 404
+          },
+          "whale_positions": {
+            "error": 404
+          },
+          "price_history": {
+            "error": 404
+          },
+          "fear_greed": {
+            "error": 404
+          },
+          "etf_flows": {
+            "error": 404
+          },
+          "orderbook_heatmap": {
+            "error": 404
+          },
+          "exchange_balances": {
+            "error": 404
+          },
+          "etf_aum": {
+            "error": 404
+          }
+        },
+        "ETH": {
+          "liquidation_map": {
+            "error": 404
+          },
+          "open_interest": {
+            "error": 404
+          },
+          "funding_oi_weighted": {
+            "error": 404
+          },
+          "top_trader_ratio": {
+            "error": 404
+          },
+          "whale_alerts": {
+            "error": 404
+          },
+          "taker_buy_sell_volume": {
+            "error": 404
+          },
+          "global_long_short_ratio": {
+            "error": 404
+          },
+          "pairs_markets": {
+            "error": 404
+          },
+          "whale_positions": {
+            "error": 404
+          },
+          "price_history": {
+            "error": 404
+          },
+          "fear_greed": {
+            "error": 404
+          },
+          "etf_flows": {
+            "error": 404
+          },
+          "orderbook_heatmap": {
+            "error": 404
+          },
+          "exchange_balances": {
+            "error": 404
+          },
+          "etf_aum": {
+            "error": 404
+          }
+        },
+        "SOL": {
+          "liquidation_map": {
+            "error": 404
+          },
+          "open_interest": {
+            "error": 404
+          },
+          "funding_oi_weighted": {
+            "error": 404
+          },
+          "top_trader_ratio": {
+            "error": 404
+          },
+          "whale_alerts": {
+            "error": 404
+          },
+          "taker_buy_sell_volume": {
+            "error": 404
+          },
+          "global_long_short_ratio": {
+            "error": 404
+          },
+          "pairs_markets": {
+            "error": 404
+          },
+          "whale_positions": {
+            "error": 404
+          },
+          "price_history": {
+            "error": 404
+          },
+          "fear_greed": {
+            "error": 404
+          },
+          "etf_flows": {
+            "error": 404
+          },
+          "orderbook_heatmap": {
+            "error": 404
+          },
+          "exchange_balances": {
+            "error": 404
+          },
+          "etf_aum": {
+            "error": 404
+          }
+        },
+        "XRP": {
+          "liquidation_map": {
+            "error": 404
+          },
+          "open_interest": {
+            "error": 404
+          },
+          "funding_oi_weighted": {
+            "error": 404
+          },
+          "top_trader_ratio": {
+            "error": 404
+          },
+          "whale_alerts": {
+            "error": 404
+          },
+          "taker_buy_sell_volume": {
+            "error": 404
+          },
+          "global_long_short_ratio": {
+            "error": 404
+          },
+          "pairs_markets": {
+            "error": 404
+          },
+          "whale_positions": {
+            "error": 404
+          },
+          "price_history": {
+            "error": 404
+          },
+          "fear_greed": {
+            "error": 404
+          },
+          "etf_flows": {
+            "error": 404
+          },
+          "orderbook_heatmap": {
+            "error": 404
+          },
+          "exchange_balances": {
+            "error": 404
+          },
+          "etf_aum": {
+            "error": 404
+          }
+        }
+      }
     }
   ]
 }
